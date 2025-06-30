@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=1_BLOCK.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=1_BLOCK.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=5_OUTPUTS.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=5_OUTPUTS.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=1_BLOCK.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=2_POWER.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=2_POWER.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=1_BLOCK.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=3_MCU.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=3_MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=1_BLOCK.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=4_DIGITAL.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=4_DIGITAL.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
